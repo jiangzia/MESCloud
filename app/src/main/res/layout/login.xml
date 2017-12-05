@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background" >
+
+
+    <TextView
+            android:id="@+id/tvlogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:layout_centerHorizontal="true"
+            android:text="@string/tvlogo"
+            android:textColor="@color/orange_red"
+            android:textSize="30sp"/> 
+    
+        <EditText
+            android:id="@+id/etusername"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="90dp"
+            android:layout_below="@+id/tvlogo"
+            android:drawableLeft="@drawable/account"
+            android:hint="@string/username_tips"
+            android:textColor="@color/white"
+            android:textColorHint="@color/white">
+        </EditText>
+
+        <EditText
+            android:id="@+id/etpassword"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etusername"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:inputType="textPassword" 
+            android:hint="@string/password_tips"
+            android:drawableLeft="@drawable/password"
+            android:textColorHint="@color/white"/>
+        <CheckBox
+            android:id="@+id/chb"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etpassword"
+            android:text="@string/rememberpwd" 
+            android:layout_marginTop="10dp"
+            android:layout_alignLeft="@id/etpassword"
+            android:textColor="@color/white"
+/>
+        <Button
+            android:id="@+id/btnlogin"
+            android:layout_width="250dp"
+            android:layout_height="36dp"
+            android:text="@string/login" 
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/chb"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:background="@drawable/login_button"
+            android:textStyle="bold"/>"
+</RelativeLayout>

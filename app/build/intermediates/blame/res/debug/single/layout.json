@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mobileoa.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\mobileoa.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sale.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\sale.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_zero.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\guide_zero.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_two.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\guide_two.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog1.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\custom_dialog1.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\product.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quality.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\quality.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\guide.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tool.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\tool.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\set.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bottom.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\activity_bottom.xml"
+    },
+    {
+        "merged": "D:\\xiton\\MESCloud\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_one.xml",
+        "source": "D:\\xiton\\MESCloud\\app\\src\\main\\res\\layout\\guide_one.xml"
+    }
+]

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:tools="http://schemas.android.com/tools"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:background="@drawable/bottom_actionbar_bg"
+       android:paddingTop="1px">
+   
+      <LinearLayout
+           android:id="@+id/ll_sale"
+           android:layout_width="0dp"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"
+           android:gravity="center"
+           android:orientation="vertical"
+           android:background="#fff" >
+   
+           <ImageView
+              android:id="@+id/iv_sale"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/sale" />
+  
+          <TextView
+              android:id="@+id/tv_sale"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/sale"
+              android:textColor="#9ea0a0"
+              android:textStyle="bold" />
+      </LinearLayout>
+  
+      <LinearLayout
+            android:id="@+id/ll_product"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:background="#fff" >
+  
+          <ImageView
+              android:id="@+id/iv_product"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/product" />
+  
+          <TextView
+              android:id="@+id/tv_product"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/product"
+              android:textColor="#9ea0a0"
+              android:textStyle="bold" />
+      </LinearLayout>
+  
+      <LinearLayout
+            android:id="@+id/ll_mobileoa"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:background="#fff" >
+  
+          <ImageView
+              android:id="@+id/iv_mobileoa"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/mobileoa" />
+  
+          <!--<TextView
+              android:id="@+id/tv_mobileoa"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text=""
+              android:textColor="#9ea0a0"
+              android:textStyle="bold" />  -->
+      </LinearLayout>
+      
+      <LinearLayout
+          android:id="@+id/ll_quality"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:gravity="center"
+          android:orientation="vertical" 
+          android:background="#fff">
+  
+          <ImageView
+              android:id="@+id/iv_quality"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/quality" />
+  
+          <TextView
+              android:id="@+id/tv_quality"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/quality"
+              android:textColor="#9ea0a0"
+              android:textStyle="bold" />
+      </LinearLayout>
+  
+      <LinearLayout
+          android:id="@+id/ll_tool"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:gravity="center"
+          android:orientation="vertical" 
+          android:background="#fff">
+  
+          <ImageView
+              android:id="@+id/iv_tool"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:src="@drawable/tool" />
+  
+          <TextView
+              android:id="@+id/tv_tool"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/tool"
+              android:textColor="#9ea0a0"
+              android:textStyle="bold" />
+      </LinearLayout> 
+</LinearLayout>

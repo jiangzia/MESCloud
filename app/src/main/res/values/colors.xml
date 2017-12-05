@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#b7b7b7</color>
+	<color name="yellow">#f19136</color>
+	<color name="dull_gray">#e6e6e6</color>
+	<color name="dark_gray">#4b4e53</color>
+	<color name="red">#FF0000</color>
+	<color name="orange_red">#f15a24</color>
+	<color name="textgray">#434343</color>
+	<color name="textblue">#00318c</color>
+	<color name="textcoffee">#841702</color>
+	<color name="orange">#ff6a10</color>
+	<color name="customdialog">#4fcbd0</color>
+</resources>

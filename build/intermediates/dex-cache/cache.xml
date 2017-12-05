@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\xf453602\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\xiton\MESCloud\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_96e2a1d3bcfea5f8b6a8249b4c96efb8c0df4de1.jar" />
+    </item>
+
+</items>
